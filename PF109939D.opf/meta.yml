@@ -1,0 +1,28 @@
+id: PF109939D
+initial_creation_type: input
+source_metadata:
+  title: Vajrakīla maṇḍala ritual by Bla ma dam pa (block print), colophon excerpt
+  author: བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན།
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-06-03); revised, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4880
+  bases:
+    4f7f:
+      title: Vajrakīla maṇḍala ritual by Bla ma dam pa (block print), colophon excerpt
+      order: 1
+      base_file: 4f7f.txt
+created_at: '2022-04-15T18:49:11.630966'
+last_modified_at: '2022-04-15T18:49:11.630973'
+quality: null
